@@ -1,0 +1,6 @@
+spring:
+  data:
+    solr:
+      host: http://192.168.58.5:8983/solr/
+solr:
+  core: my-core
